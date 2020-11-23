@@ -12,7 +12,7 @@ BazookaJeff@protonmail.com
 
 [Non Local Algorithmic Particle Web Theory](https://github.com/BazookaJeff/Non-Local-Electron-Displacement-Theory/blob/main/Non%20Local%20Algorithmic%20Particle%20Web%20Theory.pdf)
 
-I apologize for any spelling or grammatical errors. These are the first iterations of the papers and I will continue to work them. Unfortunately, I am not sure how much time I will have to work on this project as I have two brain aneurysms which incidently have caused me to publish these papers much earlier than I anticipated. My hope is that bright minds will entertain this theory as I think it has merit and can propel us into a brighter future. Please download the papers as well for I am also unsure what might happen if I am indeed correct. 
+I apologize for any spelling or grammatical errors. These are the first iterations of my papers and I will continue to work them as time permits. Unfortunately, I am not sure how much time I will have to work on this project as I have two brain aneurysms which incidently have caused me to publish these papers much earlier than I anticipated. My hope is that bright minds will entertain these theories as I think they have merit and can propel us into a brighter future. Please download copies as well for I am also unsure what might happen if I am indeed correct. 
 
 -----BEGIN PGP PUBLIC KEY BLOCK-----
 Version: GnuPG v2.0.22 (MingW32)
