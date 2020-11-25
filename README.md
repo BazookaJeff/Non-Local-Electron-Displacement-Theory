@@ -14,6 +14,8 @@ Paper 2: [Non Local Algorithmic Particle Web Theory](https://github.com/BazookaJ
 
 Paper 3: [Pyramidal Resonance Earth Engine](https://github.com/BazookaJeff/Non-Local-Electron-Displacement-Theory/blob/main/Pyramidal%20Resonance%20Earth%20Engine.pdf)
 
+Paper 4: [Non Local Electron Shell Theory](https://github.com/BazookaJeff/Non-Local-Electron-Displacement-Theory/blob/main/Non%20Local%20Electron%20Shell%20Theory.pdf)
+
 I apologize for any spelling or grammatical errors. These are the first iterations of my papers and I will continue to work them as time permits. Unfortunately, I am not sure how much time I will have to work on this project as I have two brain aneurysms which incidently have caused me to publish these papers much earlier than I anticipated. My hope is that bright minds will entertain these theories as I think they have merit and can propel us into a brighter future. Please download copies as well for I am also unsure what might happen if I am indeed correct. 
 
 -----BEGIN PGP PUBLIC KEY BLOCK-----
