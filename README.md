@@ -8,6 +8,8 @@ Twitter: @bazookajeff
 
 BazookaJeff@protonmail.com
 
+https://mastodon.social/@BoomBoomBazookaJeff
+
 https://www.reddit.com/r/magnecity
 
 https://discord.gg/w7gupZ2zdb
