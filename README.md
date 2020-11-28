@@ -8,6 +8,8 @@ Twitter: @bazookajeff
 
 BazookaJeff@protonmail.com
 
+https://www.reddit.com/r/magnecity
+
 Paper 1: [Non Local Electron Displacement Theory](https://github.com/BazookaJeff/Non-Local-Electron-Displacement-Theory/blob/main/Non%20Local%20Electron%20Displacement%20Theory.pdf)
 
 Paper 2: [Non Local Algorithmic Particle Web Theory](https://github.com/BazookaJeff/Non-Local-Electron-Displacement-Theory/blob/main/Non%20Local%20Algorithmic%20Particle%20Web%20Theory.pdf)
