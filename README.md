@@ -4,7 +4,7 @@ By BazookaJeff
 
 Bitcoin: 12VbTWc4hLSqhAs1LEDBWKdBfaDCC98DMc
 
-#Contact Information
+# Contact Information
 
 Twitter: @bazookajeff
 
@@ -16,7 +16,7 @@ https://www.reddit.com/r/magnecity
 
 https://discord.gg/w7gupZ2zdb
 
-#Papers Below
+## Papers Below
 
 Paper 1: [Non Local Electron Displacement Theory](https://github.com/BazookaJeff/Non-Local-Electron-Displacement-Theory/blob/main/Non%20Local%20Electron%20Displacement%20Theory.pdf)
 
