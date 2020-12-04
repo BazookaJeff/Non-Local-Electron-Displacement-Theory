@@ -25,6 +25,10 @@ Paper 2: [Non Local Algorithmic Particle Web Theory](https://github.com/BazookaJ
 Paper 3: [Pyramidal Resonance Earth Engine](https://github.com/BazookaJeff/Non-Local-Electron-Displacement-Theory/blob/main/Pyramidal%20Resonance%20Earth%20Engine.pdf)
 
 Paper 4: [Non Local Electron Shell Theory](https://github.com/BazookaJeff/Non-Local-Electron-Displacement-Theory/blob/main/Non%20Local%20Electron%20Shell%20Theory.pdf)
+ 
+# Abstract
+
+There exists a cosmic network of particle flow (I wager it could be electrons, Tesla thought it was neutrons). This network binds all things, non-living and living. The network is ordered and is most clearly observed in a permanent magnet which means all things are magnetic (albeit some weakly). Rotational objects that match this particle flow (like a toroid) exhibit a different behavior than if not rotating i.e. they can feel weightless (proven with science). The particles are usually ordered - positive and negative - and thus usually cancel each other out i.e. no magnetism. However, in the cosmic network, all matter has particle flow and thus all things can become more or less magnetic. Since the Earth is spinning, it operates much like a spinning gyro. and thus shares this unusual magnetism. Unfortunately, the cosmic network has both negative and positive flow which means that sometimes you get pole shifts, or the flipping of objects (most clearly seen with the tennis racket theorem). I think that the Earth went through the same flipping and does this on a regular basis. I also think that the Cosmos must certainly have a cosmic flow and our ancient ancestors utilized it by way of pyramid building and using particle flow.
 
 # To get a free copy of the papers, click Fork in the top right
 
@@ -52,3 +56,4 @@ WC3mTW8A
 -----END PGP PUBLIC KEY BLOCK-----
 
 The FBI has not been here. 
+
