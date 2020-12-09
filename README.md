@@ -22,9 +22,11 @@ Paper 1: [Non Local Electron Displacement Theory](https://github.com/BazookaJeff
 
 Paper 2: [Non Local Algorithmic Particle Web Theory](https://github.com/BazookaJeff/Non-Local-Electron-Displacement-Theory/blob/main/Non%20Local%20Algorithmic%20Particle%20Web%20Theory.pdf)
 
-Paper 3: [Pyramidal Resonance Earth Engine](https://github.com/BazookaJeff/Non-Local-Electron-Displacement-Theory/blob/main/Pyramidal%20Resonance%20Earth%20Engine.pdf)
+Paper 3: [Non Local Electron Shell Theory](https://github.com/BazookaJeff/Non-Local-Electron-Displacement-Theory/blob/main/Non%20Local%20Electron%20Shell%20Theory.pdf)
 
-Paper 4: [Non Local Electron Shell Theory](https://github.com/BazookaJeff/Non-Local-Electron-Displacement-Theory/blob/main/Non%20Local%20Electron%20Shell%20Theory.pdf)
+Paper 4: [Pyramidal Resonance Earth Engine](https://github.com/BazookaJeff/Non-Local-Electron-Displacement-Theory/blob/main/Pyramidal%20Resonance%20Earth%20Engine.pdf)
+
+
  
 # Summary
 
