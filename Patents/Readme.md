@@ -2,4 +2,4 @@ Stanley Myer's Water Cell makes sense if you plug in Non Local Electron Displace
 
 [Stanley Myer's Patent](https://patents.google.com/patent/US5149407) 
 
-##Clean highly efficient fuel avaiable for all.
+## Clean highly efficient fuel avaiable for all.
