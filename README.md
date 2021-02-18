@@ -26,6 +26,8 @@ Paper 3: [Non Local Electron Shell Theory](https://github.com/BazookaJeff/Non-Lo
 
 Paper 4: [Pyramidal Resonance Earth Engine](https://github.com/BazookaJeff/Non-Local-Electron-Displacement-Theory/blob/main/Pyramidal%20Resonance%20Earth%20Engine.pdf)
 
+Paper 5: [Resonant Hydrogen as a Fuel Source](https://github.com/BazookaJeff/Non-Local-Electron-Displacement-Theory/blob/main/Resonant%20Hydrogen%20as%20a%20Fuel%20Source.pdf)
+
 
  
 # Summary
