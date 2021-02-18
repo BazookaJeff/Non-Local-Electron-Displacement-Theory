@@ -10,6 +10,8 @@ Twitter: @bazookajeff
 
 BazookaJeff@protonmail.com
 
+https://www.patreon.com/BazookaJeff
+
 https://mastodon.social/@BoomBoomBazookaJeff
 
 https://www.reddit.com/r/magnecity
